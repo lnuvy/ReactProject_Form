@@ -1,5 +1,5 @@
 import React from "react";
-import './Button.css'
+import './CSS/Button.css'
 
 function Button({...rest}) {
 
@@ -10,7 +10,7 @@ function Button({...rest}) {
 
 export default Button;
 
-// Button.defaultProps = {
-//     size: 'medium',
-//     color: 'tomato'
-// }
+Button.defaultProps = {
+    size: 'medium',
+    color: 'tomato'
+}

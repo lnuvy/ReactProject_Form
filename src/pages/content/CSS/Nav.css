@@ -3,7 +3,7 @@
     flex-direction: row;
     width: 100%;
     margin: 0;
-    /* padding: 0; */
+    padding: 0;
     background-color: darkslategray;
     list-style-type: none; /* ul 기호 제거 */
 }
